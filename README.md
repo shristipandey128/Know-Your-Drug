@@ -11,7 +11,7 @@ This project utilizes machine learning to predict diseases based on user-inputte
 - **static**: Frontend images (`img`, `i.avif`).
 - **Project Files**:
   - `app.py`: Main entry point for the Flask web application.
-  - `disease_prediction_system.ipynb`: Jupyter Notebook for data preprocessing and model training.
+  - `predict.ipynb`: Jupyter Notebook for data preprocessing and model training.
 
 
 ## How to Run

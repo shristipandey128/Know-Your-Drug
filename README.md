@@ -8,7 +8,7 @@ This project utilizes machine learning to predict diseases based on user-inputte
 - **kaggle_dataset**: Includes CSV files with data on diseases, symptoms, training sets, recommended diets, medications, precautions, and workouts.
 - **model**: Contains the trained Random Forest model (`RandomForest.pkl`) used for disease prediction.
 - **templates**: Frontend HTML template (`index.html`).
-- **static**: Frontend images (`img1.jpg`, `img.png`).
+- **static**: Frontend images (`img`, `i.avif`).
 - **Project Files**:
   - `app.py`: Main entry point for the Flask web application.
   - `disease_prediction_system.ipynb`: Jupyter Notebook for data preprocessing and model training.

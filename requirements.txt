@@ -3,6 +3,6 @@ scikit-learn
 numpy
 fuzzywuzzy
 python-Levenshtein
-pickle5  # Optional: pickle is part of Python standard library, but use this for compatibility.
+#pickle5  # Optional: pickle is part of Python standard library, but use this for compatibility.
 flask
 joblib

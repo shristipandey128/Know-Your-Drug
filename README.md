@@ -25,3 +25,4 @@ This project utilizes machine learning to predict diseases based on user-inputte
    ```
 3. Open the web interface at `http://localhost:5000`.
 
+Check here https://know-your-drug-3.onrender.com
